@@ -1,0 +1,420 @@
+{
+  "sourceUrl": "https://www.mi.com/shop/search?keyword=xiaomi%E6%95%B0%E5%AD%97%E7%B3%BB%E5%88%97",
+  "apiUrl": "https://api2.order.mi.com/search/index",
+  "keyword": "xiaomi数字系列",
+  "fetchedAt": "2026-04-29T02:29:00.134Z",
+  "sourceSeries": "Xiaomi 数字旗舰",
+  "totalFromApi": 13,
+  "modelCount": 13,
+  "skuCount": 42,
+  "models": [
+    {
+      "sourceSeries": "Xiaomi 数字旗舰",
+      "modelName": "Xiaomi 15",
+      "productId": "20618",
+      "priceText": "3599元起",
+      "buyUrl": "https://www.mi.com/shop/buy?product_id=20618",
+      "detailUrl": "https://www.mi.com/shop/buy/detail?product_id=20618",
+      "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202410282146_5b401bb9f2f18d1a3217a222a8b7d0fd.png",
+      "description": "徕卡光学 Summilux 高速镜头｜骁龙®8至尊版移动平台｜5400mAh 小米金沙江电池\n小米澎湃OS 2｜全生态AI助手 超级小爱｜低功耗超级阳光屏",
+      "variants": [
+        {
+          "name": "Xiaomi 15 12GB+256GB",
+          "commodityId": 1230802946,
+          "priceText": "3599元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202410282146_5b401bb9f2f18d1a3217a222a8b7d0fd.png"
+        },
+        {
+          "name": "Xiaomi 15 12GB+512GB",
+          "commodityId": 1230802947,
+          "priceText": "3899元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202410282146_5b401bb9f2f18d1a3217a222a8b7d0fd.png"
+        },
+        {
+          "name": "Xiaomi 15 16GB+512GB",
+          "commodityId": 1230802948,
+          "priceText": "4099元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202410282146_5b401bb9f2f18d1a3217a222a8b7d0fd.png"
+        },
+        {
+          "name": "Xiaomi 15 16GB+1TB",
+          "commodityId": 1230802949,
+          "priceText": "4599元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202410282146_5b401bb9f2f18d1a3217a222a8b7d0fd.png"
+        },
+        {
+          "name": "Xiaomi 15 钻石限定版",
+          "commodityId": 1230802950,
+          "priceText": "5999元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202410282149_a273c623630a535ea738abb3aa0e33ff.png"
+        }
+      ]
+    },
+    {
+      "sourceSeries": "Xiaomi 数字旗舰",
+      "modelName": "Xiaomi 17 Ultra",
+      "productId": "22422",
+      "priceText": "6999元起",
+      "buyUrl": "https://www.mi.com/shop/buy?product_id=22422",
+      "detailUrl": "https://www.mi.com/shop/buy/detail?product_id=22422",
+      "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202512230958_dd554f88444d6f8d03735bcec02a5de2.png",
+      "description": "徕卡一英寸光影大师｜光影猎人1050L传感器｜LOFIC超高动态技术｜烟花模式｜徕卡超纯光学系统｜徕卡2亿像素光学变焦｜2亿像素超大底传感器｜75mm-100mm 2亿像素光学直出｜8片3组 光学架构｜4K 实况运镜｜红毯运镜｜徕卡APO光学认证｜50MP 徕卡超广角｜超级像素｜1.18mm 极窄四等边｜M10 新一代屏幕发光材料｜新型红色发光主材｜小米龙晶玻璃 3.0｜第五代骁龙8 至尊版移动平台｜双路立体环形冷泵｜6800 mAh小米金沙江电池｜小米星辰通讯系统｜跨设备生态互联",
+      "variants": [
+        {
+          "name": "Xiaomi 17 Ultra 12GB+512GB",
+          "commodityId": 1230805810,
+          "priceText": "6999元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202512230958_dd554f88444d6f8d03735bcec02a5de2.png"
+        },
+        {
+          "name": "Xiaomi 17 Ultra 16GB+512GB",
+          "commodityId": 1230805811,
+          "priceText": "7499元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202512230958_dd554f88444d6f8d03735bcec02a5de2.png"
+        },
+        {
+          "name": "Xiaomi 17 Ultra 16GB+1TB",
+          "commodityId": 1230805812,
+          "priceText": "8499元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202512230958_dd554f88444d6f8d03735bcec02a5de2.png"
+        }
+      ]
+    },
+    {
+      "sourceSeries": "Xiaomi 数字旗舰",
+      "modelName": "Xiaomi 15 Pro",
+      "productId": "20603",
+      "priceText": "4999元起",
+      "buyUrl": "https://www.mi.com/shop/buy?product_id=20603",
+      "detailUrl": "https://www.mi.com/shop/buy/detail?product_id=20603",
+      "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202410282152_ddf9e92d1097e241e9090e81baa36d2c.png",
+      "description": "徕卡光学 Summilux 高速镜头｜骁龙®8至尊版移动平台｜6100mAh 小米金沙江电池\n120mm 徕卡潜望长焦 ｜小米澎湃OS 2｜全生态AI助手 超级小爱",
+      "variants": [
+        {
+          "name": "Xiaomi 15 Pro 12GB+256GB",
+          "commodityId": 1230802937,
+          "priceText": "4999元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202410282152_ddf9e92d1097e241e9090e81baa36d2c.png"
+        },
+        {
+          "name": "Xiaomi 15 Pro 16GB+512GB",
+          "commodityId": 1230802938,
+          "priceText": "5499元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202410282152_ddf9e92d1097e241e9090e81baa36d2c.png"
+        },
+        {
+          "name": "Xiaomi 15 Pro 16GB+1TB",
+          "commodityId": 1230802939,
+          "priceText": "5999元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202410282152_ddf9e92d1097e241e9090e81baa36d2c.png"
+        }
+      ]
+    },
+    {
+      "sourceSeries": "Xiaomi 数字旗舰",
+      "modelName": "Xiaomi 15 Ultra",
+      "productId": "20982",
+      "priceText": "5499元起",
+      "buyUrl": "https://www.mi.com/shop/buy?product_id=20982",
+      "detailUrl": "https://www.mi.com/shop/buy/detail?product_id=20982",
+      "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202502251810_1d343647c6a9639566f7b4d0ff498f3b.png",
+      "description": "徕卡1英寸主摄 | 徕卡2亿超级长焦 | 徕卡超纯光学系统 | 骁龙8至尊版移动平台 | 6000mAh 小米金沙江电池 | 小米澎湃OS 2",
+      "variants": [
+        {
+          "name": "Xiaomi 15 Ultra 12GB+256GB",
+          "commodityId": 1230803526,
+          "priceText": "5499元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202502251810_1d343647c6a9639566f7b4d0ff498f3b.png"
+        },
+        {
+          "name": "Xiaomi 15 Ultra 16GB+512GB 限量定制色",
+          "commodityId": 1230804349,
+          "priceText": "6499元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202506251228_58eab8619d56c7e44d517df662e9e419.png"
+        },
+        {
+          "name": "Xiaomi 15 Ultra 16GB+512GB",
+          "commodityId": 1230803527,
+          "priceText": "6499元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202502251810_1d343647c6a9639566f7b4d0ff498f3b.png"
+        },
+        {
+          "name": "Xiaomi 15 Ultra 16GB+1TB",
+          "commodityId": 1230803528,
+          "priceText": "7299元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202502251810_1d343647c6a9639566f7b4d0ff498f3b.png"
+        },
+        {
+          "name": "Xiaomi 15 Ultra 双卫星版",
+          "commodityId": 1230803619,
+          "priceText": "7499元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202502251810_1d343647c6a9639566f7b4d0ff498f3b.png"
+        }
+      ]
+    },
+    {
+      "sourceSeries": "Xiaomi 数字旗舰",
+      "modelName": "Xiaomi 17 Ultra 徕卡版",
+      "productId": "22423",
+      "priceText": "7999元起",
+      "buyUrl": "https://www.mi.com/shop/buy?product_id=22423",
+      "detailUrl": "https://www.mi.com/shop/buy/detail?product_id=22423",
+      "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202512231005_b99ba55b7c5c1e3375bd3724b9d90ea7.png",
+      "description": "经典双拼设计｜中框精雕滚花｜徕卡经典红标设计｜大师变焦环｜经典3:2全画幅比例｜徕卡M3画质｜徕卡M9画质｜安全隐私加密芯片｜徕卡一英寸光影大师｜光影猎人1050L传感器｜LOFIC超高动态技术｜烟花模式｜徕卡超纯光学系统｜徕卡2亿像素光学变焦｜2亿像素超大底传感器｜75mm-100mm 2亿像素光学直出｜8片3组 光学架构｜4K 实况运镜｜红毯运镜｜徕卡APO光学认证｜50MP 徕卡超广角｜超级像素｜1.18mm 极窄四等边｜M10 新一代屏幕发光材料｜",
+      "variants": [
+        {
+          "name": "Xiaomi 17 Ultra 徕卡版 16GB+512GB",
+          "commodityId": 1230805813,
+          "priceText": "7999元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202512231005_b99ba55b7c5c1e3375bd3724b9d90ea7.png"
+        },
+        {
+          "name": "Xiaomi 17 Ultra 徕卡版 16GB+1TB",
+          "commodityId": 1230805814,
+          "priceText": "8999元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202512231005_b99ba55b7c5c1e3375bd3724b9d90ea7.png"
+        }
+      ]
+    },
+    {
+      "sourceSeries": "Xiaomi 数字旗舰",
+      "modelName": "Xiaomi 17",
+      "productId": "21931",
+      "priceText": "4299元起",
+      "buyUrl": "https://www.mi.com/shop/buy?product_id=21931",
+      "detailUrl": "https://www.mi.com/shop/buy/detail?product_id=21931",
+      "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202509222148_ffb7adfa456ae103f16f2517b2e07908.png",
+      "description": "徕卡光学 Summilux 高速镜头｜光影猎人 950 影像传感器丨第五代 骁龙 8 至尊版移动平台\n7000mAh 小米金沙江电池丨100W 小米澎湃秒充｜低功耗超级阳光屏",
+      "variants": [
+        {
+          "name": "Xiaomi 17 12GB+256GB",
+          "commodityId": 1230804969,
+          "priceText": "4299元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202509222148_ffb7adfa456ae103f16f2517b2e07908.png"
+        },
+        {
+          "name": "Xiaomi 17 12GB+512GB",
+          "commodityId": 1230804970,
+          "priceText": "4499元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202509222148_ffb7adfa456ae103f16f2517b2e07908.png"
+        },
+        {
+          "name": "Xiaomi 17 16GB+512GB",
+          "commodityId": 1230804971,
+          "priceText": "4799元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202509222148_ffb7adfa456ae103f16f2517b2e07908.png"
+        },
+        {
+          "name": "Xiaomi 17 16GB+1TB",
+          "commodityId": 1230805263,
+          "priceText": "5299元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202509222148_ffb7adfa456ae103f16f2517b2e07908.png"
+        }
+      ]
+    },
+    {
+      "sourceSeries": "Xiaomi 数字旗舰",
+      "modelName": "Xiaomi 17 Pro Max",
+      "productId": "21936",
+      "priceText": "5999元起",
+      "buyUrl": "https://www.mi.com/shop/buy?product_id=21936",
+      "detailUrl": "https://www.mi.com/shop/buy/detail?product_id=21936",
+      "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202509222137_0f5648ca22c47fcd041c4026f11a927f.png",
+      "description": "徕卡光影大师 移动影像系统｜徕卡 5X 超聚光潜望长焦｜妙享背屏｜第五代 骁龙 8 至尊版移动平台｜7500mAh 小米金沙江电池｜低功耗超级阳光屏 「超级像素」",
+      "variants": [
+        {
+          "name": "Xiaomi 17 Pro Max 12GB+512GB",
+          "commodityId": 1230804977,
+          "priceText": "5999元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202509222137_0f5648ca22c47fcd041c4026f11a927f.png"
+        },
+        {
+          "name": "Xiaomi 17 Pro Max 16GB+512GB",
+          "commodityId": 1230804978,
+          "priceText": "6299元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202509222137_0f5648ca22c47fcd041c4026f11a927f.png"
+        },
+        {
+          "name": "Xiaomi 17 Pro Max 16GB+1TB",
+          "commodityId": 1230804979,
+          "priceText": "6999元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202509222137_0f5648ca22c47fcd041c4026f11a927f.png"
+        }
+      ]
+    },
+    {
+      "sourceSeries": "Xiaomi 数字旗舰",
+      "modelName": "Xiaomi 17 Pro",
+      "productId": "21932",
+      "priceText": "4999元起",
+      "buyUrl": "https://www.mi.com/shop/buy?product_id=21932",
+      "detailUrl": "https://www.mi.com/shop/buy/detail?product_id=21932",
+      "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202509222144_bd1b5ffd612096f532368cbb70a10ee6.png",
+      "description": "徕卡光影大师 移动影像系统 ｜徕卡 5X 浮动潜望长焦｜妙享背屏｜第五代 骁龙 8 至尊版移动平台｜6300mAh 小米金沙江电池｜低功耗超级阳光屏",
+      "variants": [
+        {
+          "name": "Xiaomi 17 Pro 12GB+256GB",
+          "commodityId": 1230804972,
+          "priceText": "4999元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202509222144_bd1b5ffd612096f532368cbb70a10ee6.png"
+        },
+        {
+          "name": "Xiaomi 17 Pro 12GB+512GB",
+          "commodityId": 1230804973,
+          "priceText": "5299元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202509222144_bd1b5ffd612096f532368cbb70a10ee6.png"
+        },
+        {
+          "name": "Xiaomi 17 Pro 16GB+512GB",
+          "commodityId": 1230804974,
+          "priceText": "5599元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202509222144_bd1b5ffd612096f532368cbb70a10ee6.png"
+        },
+        {
+          "name": "Xiaomi 17 Pro 16GB+1TB",
+          "commodityId": 1230804975,
+          "priceText": "5999元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202509222144_bd1b5ffd612096f532368cbb70a10ee6.png"
+        }
+      ]
+    },
+    {
+      "sourceSeries": "Xiaomi 数字旗舰",
+      "modelName": "Xiaomi 15 定制版",
+      "productId": "20609",
+      "priceText": "4099元起",
+      "buyUrl": "https://www.mi.com/shop/buy?product_id=20609",
+      "detailUrl": "https://www.mi.com/shop/buy/detail?product_id=20609",
+      "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202410281103_7b020a2556cd0926adfc5c0d1308ca2d.png",
+      "description": "Xiaomi 15 定制版",
+      "variants": [
+        {
+          "name": "Xiaomi 15 定制版 16GB+512GB",
+          "commodityId": 1230802940,
+          "priceText": "4099元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202410281103_7b020a2556cd0926adfc5c0d1308ca2d.png"
+        },
+        {
+          "name": "Xiaomi 15 定制版 新春献礼",
+          "commodityId": 1230803450,
+          "priceText": "4099元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202501212050_c3cf85e681f2b67213b9f0a97cf92d77.png"
+        }
+      ]
+    },
+    {
+      "sourceSeries": "Xiaomi 数字旗舰",
+      "modelName": "Xiaomi 15S Pro",
+      "productId": "21305",
+      "priceText": "5499元起",
+      "buyUrl": "https://www.mi.com/shop/buy?product_id=21305",
+      "detailUrl": "https://www.mi.com/shop/buy/detail?product_id=21305",
+      "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202505221337_1f36efb7a5aa0247bd1f16860071948c.png",
+      "description": "玄戒® O1 3nm 旗舰处理器 | 小米 15周年特别设计 | 徕卡光学 Summilux 全焦段三摄 | 6100 mAh 小米金沙江电池 | 2K 低功耗超级阳光屏 | 小米首发 全焦段 4K 夜景视频",
+      "variants": [
+        {
+          "name": "Xiaomi 15S Pro 16GB+512GB",
+          "commodityId": 1230803995,
+          "priceText": "5499元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202505221337_1f36efb7a5aa0247bd1f16860071948c.png"
+        },
+        {
+          "name": "Xiaomi 15S Pro 16GB+1TB",
+          "commodityId": 1230803996,
+          "priceText": "5999元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202505221337_1f36efb7a5aa0247bd1f16860071948c.png"
+        }
+      ]
+    },
+    {
+      "sourceSeries": "Xiaomi 数字旗舰",
+      "modelName": "Xiaomi 14 Ultra",
+      "productId": "19683",
+      "priceText": "4499元起",
+      "buyUrl": "https://www.mi.com/shop/buy?product_id=19683",
+      "detailUrl": "https://www.mi.com/shop/buy/detail?product_id=19683",
+      "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202402221039_329affe64d490e237ec298416d0e96e3.png",
+      "description": "徕卡光学 Summilux 镜头，第三代骁龙®8移动平台",
+      "variants": [
+        {
+          "name": "Xiaomi 14 Ultra 12GB+256GB",
+          "commodityId": 1230801639,
+          "priceText": "4499元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202402221039_329affe64d490e237ec298416d0e96e3.png"
+        },
+        {
+          "name": "Xiaomi 14 Ultra 16GB+512GB",
+          "commodityId": 1230801640,
+          "priceText": "4999元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202402221039_329affe64d490e237ec298416d0e96e3.png"
+        },
+        {
+          "name": "Xiaomi 14 Ultra 16GB+1TB",
+          "commodityId": 1230801641,
+          "priceText": "5799元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202402221039_329affe64d490e237ec298416d0e96e3.png"
+        },
+        {
+          "name": "Xiaomi 14 Ultra 钛金属特别版",
+          "commodityId": 1230801642,
+          "priceText": "6799元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202402221040_96e39a22c84a9583ac7b9ff095a1823c.png"
+        }
+      ]
+    },
+    {
+      "sourceSeries": "Xiaomi 数字旗舰",
+      "modelName": "Xiaomi 14 Pro",
+      "productId": "19288",
+      "priceText": "4599元起",
+      "buyUrl": "https://www.mi.com/shop/buy?product_id=19288",
+      "detailUrl": "https://www.mi.com/shop/buy/detail?product_id=19288",
+      "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310251924_cd7cff6111f0c7ecab1a741529fc58c3.png",
+      "description": "徕卡Summilux可变光圈镜头｜光影猎人900影像传感器 | 小米澎湃OS | 全新小米龙晶玻璃｜全等深微曲屏｜第三代骁龙®8移动平台",
+      "variants": [
+        {
+          "name": "Xiaomi 14 Pro 16GB+512GB",
+          "commodityId": 1230801073,
+          "priceText": "5099元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310251924_cd7cff6111f0c7ecab1a741529fc58c3.png"
+        },
+        {
+          "name": "Xiaomi 14 Pro 12GB+256GB",
+          "commodityId": 1230801072,
+          "priceText": "4599元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310251924_cd7cff6111f0c7ecab1a741529fc58c3.png"
+        },
+        {
+          "name": "Xiaomi 14 Pro 16GB+1TB",
+          "commodityId": 1230801074,
+          "priceText": "5599元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310251924_cd7cff6111f0c7ecab1a741529fc58c3.png"
+        },
+        {
+          "name": "Xiaomi 14 Pro 限量定制版",
+          "commodityId": 1230801467,
+          "priceText": "5599元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202312271836_4c4c330fb692f2ab20891e32ac21af68.png"
+        }
+      ]
+    },
+    {
+      "sourceSeries": "Xiaomi 数字旗舰",
+      "modelName": "Xiaomi 13 Ultra 限量定制色",
+      "productId": "18443",
+      "priceText": "5899元起",
+      "buyUrl": "https://www.mi.com/shop/buy?product_id=18443",
+      "detailUrl": "https://www.mi.com/shop/buy/detail?product_id=18443",
+      "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202305020959_20e2e7716b2cb0b6771c163eb431a802.png",
+      "description": "徕卡光学全焦段四摄| 一英寸可变光圈| 徕卡专业街拍模式| 第二代骁龙8｜2K OLED 屏幕｜5000mAh大电量｜90W 小米澎湃有线秒充｜50W Pro 小米澎湃无线秒充",
+      "variants": [
+        {
+          "name": "Xiaomi 13 Ultra 限量定制色 16GB+512GB",
+          "commodityId": 1230800322,
+          "priceText": "5899元",
+          "imageUrl": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202305020959_20e2e7716b2cb0b6771c163eb431a802.png"
+        }
+      ]
+    }
+  ]
+}
