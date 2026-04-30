@@ -6,7 +6,12 @@ import type { PhoneSeries } from './types/device'
 import './App.css'
 
 const brandMenu = {
-  Xiaomi: ['Xiaomi 数字旗舰', 'Xiaomi MIX系列', 'Xiaomi Civi系列'] as PhoneSeries[],
+  Xiaomi: [
+    '小米17系列', '小米16系列', '小米15系列', '小米14系列', '小米13系列',
+    '小米12系列', '小米11系列', '小米10系列', '小米9系列', '小米8系列',
+    '小米6系列', '小米5系列', '小米4系列', '小米3系列', '小米2系列', '小米1系列',
+    'Xiaomi MIX系列', 'Xiaomi Civi系列',
+  ] as PhoneSeries[],
   REDMI: ['REDMI K系列', 'REDMI Turbo系列', 'REDMI Note系列', 'REDMI 数字系列'] as PhoneSeries[],
 }
 
