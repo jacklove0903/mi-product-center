@@ -1,0 +1,7 @@
+node_modules
+dist
+.claude
+data/output
+tools
+*.md
+.git
